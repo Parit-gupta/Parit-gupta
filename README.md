@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey there, I'm Parit Gupta 👋</h1>
 
 <h3 align="center">AI/ML Engineer | GenAI Developer | Data Engineering Enthusiast</h3>
@@ -62,6 +61,21 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 🏦 FinIntel AI — Banking Intelligence & Decision Support
+A Streamlit application for exploring financial data and trying interactive banking decision tools.
+
+- Loan approval estimates and transaction fraud checks
+- Fraud-risk screening, account anomaly checks, and withdrawal validation
+- Branch-profit predictions and support-ticket prioritization
+- ETL workflows, decision history, and optional AWS S3, SES, and SNS integrations
+- Includes an EC2 deployment guide
+
+**Stack:** Python, Streamlit, scikit-learn, Pandas, PostgreSQL, AWS
+
+[View FinIntel AI on GitHub](https://github.com/Parit-gupta/Finintel_AI)
+
+> Demo project only: its predictions are not actual banking or lending decisions.
 
 ### 🤖 AI & Machine Learning
 - **House Price Prediction** — Machine learning model for predicting property prices.
